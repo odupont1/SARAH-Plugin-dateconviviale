@@ -1,8 +1,0 @@
-{
-  "modules" : { 
-    "dateconviviale"  : {
-      "description": "Sarah donne la date dans un format convivial.",
-      "version"    : "1.0"
-    }
-  }
-}
