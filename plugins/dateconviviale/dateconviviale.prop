@@ -2,7 +2,9 @@
   "modules" : { 
     "dateconviviale"  : {
       "description": "Sarah donne la date dans un format convivial.",
-      "version"    : "1.0"
+      "version"    : "1.1",
+	  "Donne_heure": "non",
+      "Rappel_calendrier": "non"
     }
   }
 }
