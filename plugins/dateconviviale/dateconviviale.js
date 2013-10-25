@@ -99,7 +99,7 @@ var events = function(jour,mois,annee){
 		  break  
 		  }		  
 		// Aout  
-		case 7 : switch (jour)
+		case 8 : switch (jour)
 		  {
 		  case 15 : return (" Aujourd'hui, c'est l'Assomption !")
 		  break  
@@ -119,7 +119,7 @@ var events = function(jour,mois,annee){
 		  break		  
 		  }
 		// Decembre
-		case 11 : switch (jour)
+		case 12 : switch (jour)
 		  {
 		  case 25 : return (" Aujourd'hui, c'est le jour de Noel ! Tu as eu quoi comme cadeaux ?")
 		  break		  
